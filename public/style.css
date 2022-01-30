@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(65, 65, 65);
+  color: bisque;
+}
+
+a,
+a:visited {
+  color: bisque;
+}
